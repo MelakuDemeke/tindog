@@ -43,3 +43,20 @@ h1{
     width: 60%;
     transform: rotate(25deg);
 }
+
+/* font edit */
+
+.biggerfont{
+    font-size: 50px;
+    color: #ef8172;
+}
+.biggerfont:hover{
+    color: #ff4c68;
+}
+
+.seccontent{
+    text-align: center;
+}
+.subtex{
+    color: #8f8f8f;
+}
