@@ -10,6 +10,12 @@ h1 {
 
 }
 
+h2 {
+    font-family: Montserrat;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
 h3 {
     font-family: "Montserrat";
     font-weight: bold;
@@ -82,3 +88,38 @@ h3 {
 }
 
 /* Testimonial section */
+#testimonials {
+    text-align: center;
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.testimonial-pic {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+#press {
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+/* pricing section */
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.pricing-colum{
+    padding: 3% 2%;
+}
