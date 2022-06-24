@@ -47,8 +47,9 @@ h1{
 /* font edit */
 
 .biggerfont{
-    font-size: 50px;
+    /* font-size: 50px; */
     color: #ef8172;
+    margin-bottom: 1rem;
 }
 .biggerfont:hover{
     color: #ff4c68;
@@ -56,13 +57,14 @@ h1{
 
 .seccontent{
     text-align: center;
+    padding: 5%;
 }
 .subtex{
     color: #8f8f8f;
 }
 
 #features{
-    margin-top: 50px;
+    margin: 7% 15%;
 }
 h3{
     font-family: "Montserrat";
