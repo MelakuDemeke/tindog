@@ -30,7 +30,7 @@ h3 {
 
 
 .container-fluid {
-    padding: 3% 15%;
+    padding: 3% 15% 7%;
 }
 
 /* Navigation bar */
@@ -88,6 +88,7 @@ h3 {
     width: 20%;
     transform: rotate(25deg);
     position:absolute;
+    right: 30%;
 
 }
 
@@ -103,7 +104,7 @@ h3 {
 /* Testimonial section */
 #testimonials {
     text-align: center;
-    background-color: #ff4c68;
+    background-color: #ef8172;
     color: #fff;
 }
 
@@ -118,8 +119,7 @@ h3 {
 }
 
 #press {
-    background-color: #ff4c68;
-    text-align: center;
+    background-color: #ef8172;
     padding-bottom: 20px;
 }
 
