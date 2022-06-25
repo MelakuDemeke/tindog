@@ -121,11 +121,13 @@ h3 {
 #press {
     background-color: #ef8172;
     padding-bottom: 20px;
+    text-align: center;
 }
 
 .press-logo {
     width: 15%;
     margin: 20px 20px 50px;
+    
 }
 
 /* pricing section */
@@ -135,4 +137,15 @@ h3 {
 }
 .pricing-colum{
     padding: 3% 2%;
+}
+
+@media (max-width: 1028px){
+    #title{
+        text-align: center;
+    }
+    .title-image{
+        position: static;
+        transform: rotate(0);
+        width: 60%;
+    }
 }
