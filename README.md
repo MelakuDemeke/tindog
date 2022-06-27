@@ -17,3 +17,10 @@ This is a simple frontend project which is built while learning full-stack web d
     - carousel
     - card
 4. Media Query Breakpoints
+
+## Result of the code
+![site picture](images/page_image.png)
+![site picture](images/page_image2.png)
+![site picture](images/page_image3.png)
+![site picture](images/page_image4.png)
+![site picture](images/page_image5.png)
