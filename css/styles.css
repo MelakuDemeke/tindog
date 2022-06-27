@@ -1,179 +1,176 @@
 body {
-    font-family: "Montserrat";
-
+  font-family: "Montserrat";
 }
 
 h1 {
-    font-family: Montserrat;
-    font-size: 3rem;
-    line-height: 1.5;
-    font-weight: 900;
-
+  font-family: Montserrat;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
 }
 
 h2 {
-    font-family: Montserrat;
-    font-size: 3rem;
-    line-height: 1.5;
+  font-family: Montserrat;
+  font-size: 3rem;
+  line-height: 1.5;
 }
 
 h3 {
-    font-family: "Montserrat";
-    font-weight: bold;
-    font-size: 1.5rem;
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 1.5rem;
 }
 
 #title {
-    background-color: #ff4c68;
-    color: white;
+  background-color: #ff4c68;
+  color: white;
 }
 
-
 .container-fluid {
-    padding: 3% 15% 7%;
+  padding: 3% 15% 7%;
 }
 
 /* Navigation bar */
 .navbar {
-    padding: 0 0 4.5rem;
+  padding: 0 0 4.5rem;
 }
 
 .navbar-brand {
-    font-family: "Ubuntu";
-    font-size: 2.5rem;
-    font-weight: bold;
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
 }
 
 .nav-item {
-    padding: 0 18px;
+  padding: 0 18px;
 }
 
 .nav-link {
-    font-size: 1.2rem;
+  font-size: 1.2rem;
 }
 
 /* download button */
 .downloadbutton {
-    margin: 5% 3% 5% 0;
+  margin: 5% 3% 5% 0;
 }
-
-
 
 /* features secton */
 
-.featuresdiv{
-    background-color: #fff;
+.featuresdiv {
+  background-color: #fff;
 }
+
 .biggerfont {
-    /* font-size: 50px; */
-    color: #ef8172;
-    margin-bottom: 1rem;
+  /* font-size: 50px; */
+  color: #ef8172;
+  margin-bottom: 1rem;
 }
 
 .biggerfont:hover {
-    color: #ff4c68;
+  color: #ff4c68;
 }
 
 .seccontent {
-    text-align: center;
-    padding: 5%;
+  text-align: center;
+  padding: 5%;
 }
 
 .subtex {
-    color: #8f8f8f;
+  color: #8f8f8f;
 }
 
 /* title image */
 .title-image {
-    width: 20%;
-    transform: rotate(25deg);
-    position:absolute;
-    right: 30%;
-
+  width: 20%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
 }
 
 #features {
-    margin: 0% 15;
-    padding-top: 5%;
-    background-color: #fff;
-    position: relative;
-    z-index: 1;
-
+  margin: 0% 15;
+  padding-top: 5%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
 }
 
 /* Testimonial section */
 #testimonials {
-    text-align: center;
-    background-color: #ef8172;
-    color: #fff;
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
 }
 
 .testimonial-pic {
-    width: 10%;
-    border-radius: 100%;
-    margin: 20px;
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
 }
 
 .carousel-item {
-    padding: 7% 15%;
+  padding: 7% 15%;
 }
 
 #press {
-    background-color: #ef8172;
-    padding-bottom: 20px;
-    text-align: center;
+  background-color: #ef8172;
+  padding-bottom: 20px;
+  text-align: center;
 }
 
 .press-logo {
-    width: 15%;
-    margin: 20px 20px 50px;
-    
+  width: 15%;
+  margin: 20px 20px 50px;
 }
 
 /* pricing section */
-#pricing{
-    padding: 100px;
-    text-align: center;
-}
-.pricing-colum{
-    padding: 3% 2%;
+#pricing {
+  padding: 100px;
+  text-align: center;
 }
 
-@media (max-width: 1028px){
-    #title{
-        text-align: center;
-    }
-    .title-image{
-        position: static;
-        transform: rotate(0);
-        width: 60%;
-    }
+.pricing-colum {
+  padding: 3% 2%;
+}
+
+@media (max-width: 1028px) {
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+    width: 60%;
+  }
 }
 
 /* cta section*/
-#cta{
-    background-color: #ff4c68;
-    text-align: center;
-
-} 
-.ctah3{
-    color: #fff;
-    font-family: "Montserrat";
-    padding: 5% 15%;
-    padding-bottom: 0.5%;
-    font-size: 3rem;
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
 }
 
-.ctabtn{
-    /* margin-bottom: 50px; */
-    margin: 5% 1%;
+.ctah3 {
+  color: #fff;
+  font-family: "Montserrat";
+  padding: 5% 15%;
+  padding-bottom: 0.5%;
+  font-size: 3rem;
 }
+
+.ctabtn {
+  /* margin-bottom: 50px; */
+  margin: 5% 1%;
+}
+
 /* footer section */
-#footer{
-    text-align: center;
-    padding: 2% 2%;
+#footer {
+  text-align: center;
+  padding: 2% 2%;
 }
-.footericons{
-    padding-left: 1%;
-    padding-right: 1%;
+
+.footericons {
+  padding-left: 1%;
+  padding-right: 1%;
 }
