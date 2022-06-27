@@ -18,6 +18,9 @@ This is a simple frontend project which is built while learning full-stack web d
     - card
 4. Media Query Breakpoints
 
+## A live link
+[click here to see the live web](https://melakudemeke.github.io/tindog/)
+
 ## Result of the code
 ![site picture](images/page_image.png)
 ![site picture](images/page_image2.png)
