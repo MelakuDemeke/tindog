@@ -149,3 +149,31 @@ h3 {
         width: 60%;
     }
 }
+
+/* cta section*/
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+
+} 
+.ctah3{
+    color: #fff;
+    font-family: "Montserrat";
+    padding: 5% 15%;
+    padding-bottom: 0.5%;
+    font-size: 3rem;
+}
+
+.ctabtn{
+    /* margin-bottom: 50px; */
+    margin: 5% 1%;
+}
+/* footer section */
+#footer{
+    text-align: center;
+    padding: 2% 2%;
+}
+.footericons{
+    padding-left: 1%;
+    padding-right: 1%;
+}
